@@ -52,9 +52,7 @@ psrnvsn2_assign5_codes
 psrnvsn2_assign5_results
 
         step1.txt
-        
         step2a.txt
-        
         step2b.txt
         
 
