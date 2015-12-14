@@ -35,13 +35,7 @@ psrnvsn2_assign5_codes
                 
                 Input files : ClusterOutputFile and GroundTruthFile
                 
-                Output : standard output
-                
-                                precision,
-                                
-                                recall,
-                                
-                                f1-measure,
+                Output : standard output,precision,recall,f1-measure,
                                 
                 Execution :        python bcubed.py <clusterOutputFile> <truthFile>
                 
